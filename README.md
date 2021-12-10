@@ -13,13 +13,13 @@
 </br>
 </br>
 
-#DATA ACQUISITION
+<b> DATA ACQUISITION </b>
 </br> Click here to download the data: https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning </br>
-**Details** 
+<b> Details </b>
 Train data: 1.4 MB
 </br> Test data: 14 KB
 Total number of rows in training data is 4920 </br>
 Total number of rows after sampling in testing data is 2050
-#DATA CLEANING
-#DATA EXPLORATION
-#DATA MODELING
+<\br> <b> DATA CLEANING </b>
+<\br> <b>  DATA EXPLORATION </b>
+<\br> <b> DATA MODELING </b>
