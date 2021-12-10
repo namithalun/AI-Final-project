@@ -13,7 +13,7 @@
 </br>
 </br>
 # DATA ACQUSISION
-[Click here to download the data](https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning) 
+</br> Click here to download the data: https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning
 **Details** </br>
 Train data: 1.4 MB
 </br> Test data: 14 KB
