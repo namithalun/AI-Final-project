@@ -35,12 +35,12 @@ Number of diseases to predict (different classes of dependent variable) is 42. E
 
 </br></br> <b> <h2> DATA EXPLORATION </h2> </b>
 
-<br> <b> Exploring independent variables </br>
+<br> <b> 1. Exploring independent variables </br></br>
 ![Analysis](https://user-images.githubusercontent.com/64222141/145634540-46415653-3f4a-4a64-ada2-eb31e47100d6.png)
 
-<br> <b> Correlational Analysis:</b> </br>
+<br> <b> 2. Correlational Analysis:</b> </br> </br>
 ![Correl](https://user-images.githubusercontent.com/64222141/145634075-eedc666a-f863-4068-be48-9f6679a61c39.png)
-<br> <b> Unsupervised Learning: K-means clustering </b> </br>
+<br> <b> 3. Unsupervised Learning: K-means clustering </b> </br> </br>
 ![Screenshot 2021-12-10 at 2 59 45 PM](https://user-images.githubusercontent.com/64222141/145634394-35ccd1e3-54f3-47ba-95f7-4bacdd47731e.png)
 
 </br>
