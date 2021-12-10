@@ -23,7 +23,7 @@ Total number of rows after sampling in testing data is 2050 </br>
 Number of symptoms (Independent variables are 132. Ex: chills, joint_pain, stomach_pain, acidity, ulcers_on_tongue, etc.
 Number of disceases to predict (Classes of dependent variable) is 42. Ex: Fungal infection, Allergy, Chronic cholestasis, Drug Reaction, AIDS, Diabetes, etc.
 </br></br> <b> DATA CLEANING </b>
-<b> For both test and train data </b>
+</br> For both test and train data 
 </br> 1. Checked for outliars
 </br> 2. Checked for null values
 </br> 3. Checked for erroneous columns
