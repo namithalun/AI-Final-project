@@ -8,3 +8,17 @@
 
  <center> <b> Date: </b> </br>
 6th December 2021 </center>
+</br>
+</br>
+</br>
+</br>
+# DATA ACQUSISION
+[Click here to download the data](https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning) 
+**Details** </br>
+Train data: 1.4 MB
+</br> Test data: 14 KB
+Total number of rows in training data is 4920 </br>
+Total number of rows after sampling in testing data is 2050
+# DATA CLEANING
+# DATA EXPLORATION
+# DATA MODELING
