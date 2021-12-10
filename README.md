@@ -15,7 +15,7 @@
 
 <b> <h2> DATA ACQUISITION </h2> </b>
 </br> Click here to download the data: https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning </br>
-<b> Details about the data </b> </br> 
+</br> <b> Details about the data </b> </br> 
 Train data: 1.4 MB
 </br> Test data: 14 KB </br>
 Total number of rows in training data is 4920 </br>
